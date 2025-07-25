@@ -4,7 +4,7 @@ This repository contains the **Digital Sales Dashboard** project developed in Ta
 
 ## View the Live Dashboard
 
-You can explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/taylor.wanyama/viz/DigitalSalesDashboardFinal2/Dashboard1)).
+You can explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/taylor.wanyama/viz/DigitalSalesDashboardFinal2/Dashboard1).
 
 ### Calculated Fields & Data Model
 
