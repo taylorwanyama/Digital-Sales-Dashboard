@@ -47,5 +47,5 @@ The dashboard presents the following visualizations and calculated metrics:
 *Above: The Tableau dashboard showing calculated fields and visualizations.*
 
 ## Author
-**[Taylor Wanyama]**
-(https://www.linkedin.com/in/taylor-wanyama-421920271/)
+**Taylor Wanyama**  
+[LinkedIn Profile](https://www.linkedin.com/in/taylor-wanyama-421920271/)
