@@ -41,7 +41,8 @@ The dashboard presents the following visualizations and calculated metrics:
 
 #### Dashboard Screenshot
 
-![Digital Sales Dashboard](Dashboard 1 (4))
+![Digital Sales Dashboard]("Dashboard 1 (4).png")
+
 
 *Above: The Tableau dashboard showing calculated fields and visualizations.*
 
