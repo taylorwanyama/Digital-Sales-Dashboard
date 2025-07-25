@@ -39,21 +39,13 @@ The dashboard presents the following visualizations and calculated metrics:
 - **Revenue by Category**: Donut chart
 - **Revenue Comparison 2024 vs 2025**: Stacked bar chart
 
-#### Dashboard Screenshot
+#### The Dashboard 
 
 ![Digital Sales Dashboard](Dashboard%201%20(4).png)
 
 
 *Above: The Tableau dashboard showing calculated fields and visualizations.*
 
-## Getting Started
-
-To view or modify the Tableau dashboard:
-
-1. Clone this repository.
-2. Open the Tableau `.twb` or `.twbx` file provided.
-3. Connect to your data source if needed, or use the sample data included.
-
-## Contribution
-
-Feel free to fork the repo, submit issues, or propose enhancements. Contributions to data structure, calculated fields, or dashboard design are welcome.
+## Author
+**[Taylor Wanyama]**
+(https://www.linkedin.com/in/taylor-wanyama-421920271/)
